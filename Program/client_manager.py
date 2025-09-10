@@ -234,3 +234,5 @@ if __name__ == "__main__":
     main()
 # Reviewed by Krispe, 10/09/2025 – Checked logic for client creation and tested main input flow.
 # Looks good! Left a couple of suggestions below, especially on error handling for edge cases.
+
+# Suggestion (Krispe): Could add input validation in 'add_client' so email has an '@' and phone is numbers only.
