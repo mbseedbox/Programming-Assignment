@@ -232,3 +232,5 @@ def main():
 # not when it's imported as a module into another script.
 if __name__ == "__main__":
     main()
+# Reviewed by Krispe, 10/09/2025 – Checked logic for client creation and tested main input flow.
+# Looks good! Left a couple of suggestions below, especially on error handling for edge cases.
